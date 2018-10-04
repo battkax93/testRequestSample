@@ -8,6 +8,7 @@
     <color name="colorTextDisable">#66FFFFFF</color>
     <color name="pink">#ff01f2</color>
     <color name="blue">#66002aff</color>
+    <color name="yellow">#fef7ff00</color>
 
     <color name="placeholder_bg">#dddddd</color>
     <color name="item_name">#0c0c0c</color>
